@@ -2,7 +2,7 @@
 ## Task 1
 Task 1 can be found in `Report.pdf`, which summarizes the original World Models Paper.
 ## Task 2
-Task 2 can be found in `Analysis.ipynb`, and accompanying weight files and training history files are present in their respective directories. 
+Task 2 can be found in `Analysis.ipynb`, and accompanying weight files and training history files are present in their respective directories. Controller histories can be found in `log/` and weights can be found in `controller/`  
 ## Task 3
 Task 3 can also be found in `Analysis.ipynb`, which also describes the various scripts used to train the GAN. Weight files and training histories are present in their respective directories. 
 
